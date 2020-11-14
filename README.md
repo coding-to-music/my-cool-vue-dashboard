@@ -1,5 +1,7 @@
 # my-cool-vue-dashboard
 
+From https://tips4devs.com/articles/build-a-responsive-dashboard-with-vue-js.html
+
 ## Project setup
 ```
 yarn install
