@@ -28,6 +28,7 @@
       <hr>
 
       <h4>Checkout the final demo <a href="#demo" @click.prevent="$router.push('/demo')">here</a>
+      <h4>Checkout My New Page <a href="#MyPage" @click.prevent="$router.push('/MyPage')">MyPage</a>
         <br/>
         <br/>
         Download the complete source code from
