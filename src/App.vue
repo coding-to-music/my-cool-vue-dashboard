@@ -9,7 +9,7 @@
     <footer class="footer">
       <div class="copyright">
         <span class="copyright-icon">©</span>
-        michael-iriarte.com
+        ThomasConnorsWebsite
       </div>
     </footer>
   </div>
@@ -25,7 +25,7 @@ export default {
   mounted () {
     if (process.env.NODE_ENV === 'production') {
       const script = document.createElement('script')
-      script.src = 'https://mika-i.disqus.com/embed.js'
+      script.src = 'https://ThomasConnors.disqus.com/embed.js'
       script.setAttribute('data-timestamp', +new Date())
       document.body.appendChild(script)
     }
